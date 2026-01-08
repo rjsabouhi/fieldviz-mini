@@ -37,3 +37,6 @@ htmlcov/
 .ruff_cache/
 .pytype/
 .ipynb_checkpoints
+__pycache__/
+*.pyc/
+
