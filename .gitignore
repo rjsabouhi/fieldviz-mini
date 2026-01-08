@@ -39,4 +39,5 @@ htmlcov/
 .ipynb_checkpoints
 __pycache__/
 *.pyc/
+uv.lock/
 
