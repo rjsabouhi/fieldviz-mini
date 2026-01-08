@@ -26,4 +26,4 @@ plot_streamlines(field, seeds=[(1,1), (-1,0), (0.5,-1)])
 
 ---
 
-This package is intentionally minimal — a small tool for intuition-building and exploration.
+This package is intentionally minimal : a small tool for intuition-building and exploration.
