@@ -9,7 +9,7 @@ description = "Tiny vector-field and attractor visualizer"
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [
-  { name="Ryan Sabouhi", email="example@example.com" }
+  { name="RJ Sabouhi", email="rjsabouhi@gmail.com" }
 ]
 license = { file="LICENSE" }
 keywords = ["dynamics", "vector fields", "visualization", "attractors", "complex systems"]
@@ -20,4 +20,4 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_GITHUB/fieldviz-mini"
+Homepage = "https://github.com/rjsabouhi/fieldviz-mini"
